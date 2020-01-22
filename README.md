@@ -5,7 +5,7 @@
  - Nertigel#5391
 
 ### Make sure you have lua 5.3, if you don't then you can download it here: www.lua.org/ftp/lua-5.3.5.tar.gz
-# You can rename the files to whatever you like but please don't re-sell or remove credits, thank you!
+### You can rename the files to whatever you like but please don't re-sell or remove credits, thank you!
 
 ### Version 1
  - Open "nertigel_obfuscator.lua"
